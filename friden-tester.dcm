@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002DN
+D Dual NMOS
+K nmos
+F http://www.diodes.com/_files/datasheets/ds30120.pdf
+$ENDCMP
+#
+$CMP BSD223P
+D Dual PMOS
+K pmos
+F http://www.infineon.com/dgdl/BSD223P_Rev1.5.pdf?folderId=db3a304314dca38901154a72e3951a65&fileId=db3a30433580b37101358619d0af33b9
+$ENDCMP
+#
+$CMP DG403
+D Dual SPDT analog switch
+K analog switch
+F http://www.intersil.com/content/dam/Intersil/documents/dg40/dg401-03.pdf
+$ENDCMP
+#
+#End Doc Library
