@@ -3,7 +3,7 @@
   (general
     (links 103)
     (no_connects 6)
-    (area 31.928999 22.784999 50.621001 63.321001)
+    (area 31.353543 22.784999 142.682867 98.1327)
     (thickness 1.6)
     (drawings 62)
     (tracks 465)
@@ -93,7 +93,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory gerbers))
+      (outputdirectory gerbers-vB))
   )
 
   (net 0 "")
