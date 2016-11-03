@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 2EDN752
+D Dual fast MOSFET driver
+K driver
+F http://www.infineon.com/dgdl/Infineon-2EDN752x-2EDN852x-DS-02_01-DS-v02_01-EN.pdf?fileId=5546d462525dbac40152abcc7dbb1727
+$ENDCMP
+#
 $CMP 2N7002DN
 D Dual NMOS
 K nmos
