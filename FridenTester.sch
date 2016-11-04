@@ -36,8 +36,8 @@ $Descr USLetter 8500 11000 portrait
 encoding utf-8
 Sheet 1 1
 Title "5v/12v Level shifter"
-Date "2016-10-31"
-Rev "B"
+Date "2016-11-04"
+Rev "C"
 Comp ""
 Comment1 ""
 Comment2 ""
