@@ -18,6 +18,11 @@ K pmos
 F http://www.infineon.com/dgdl/BSD223P_Rev1.5.pdf?folderId=db3a304314dca38901154a72e3951a65&fileId=db3a30433580b37101358619d0af33b9
 $ENDCMP
 #
+$CMP CFSH05
+D Diode schottky
+F https://www.centralsemi.com/get_document.php?cmp=1&mergetype=pd&mergepath=pd&pdf_id=CFSH05-20L.PDF
+$ENDCMP
+#
 $CMP DG403
 D Dual SPDT analog switch
 K analog switch
